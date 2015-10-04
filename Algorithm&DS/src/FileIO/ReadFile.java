@@ -16,7 +16,7 @@ public class ReadFile {
 		// TODO Auto-generated method stub
 
 		try {
-			FileInputStream fis = new FileInputStream("C:\\Users\\Rchoudha\\Desktop\\INC 38116.txt");
+			FileInputStream fis = new FileInputStream("C:\\Users\\xyz\\Desktop\\example.txt");
 			
 			BufferedReader br = new BufferedReader(new InputStreamReader(fis));
 			
